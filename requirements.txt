@@ -1,0 +1,8 @@
+feedparser
+requests
+beautifulsoup4
+newspaper3k
+torch
+transformers
+selenium
+webdriver-manager
