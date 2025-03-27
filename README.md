@@ -57,29 +57,6 @@ stock-news-summarizer-ai/
 ├── requirements.txt           # Required dependencies
 ```
 
-## How to Upload to GitHub
-1. **Initialize Git Repository** (if not already initialized)
-```sh
-git init
-```
-
-2. **Add Remote Repository** (replace with your actual GitHub repository URL)
-```sh
-git remote add origin https://github.com/rahul07rlk/stock-news-summarizer-ai.git
-```
-
-3. **Add and Commit Changes**
-```sh
-git add .
-git commit -m "Initial commit - AI Stock News Summarizer"
-```
-
-4. **Push Code to GitHub**
-```sh
-git branch -M main
-git push -u origin main
-```
-
 ## Author
 Developed by **Rahul Kumar**.
 
