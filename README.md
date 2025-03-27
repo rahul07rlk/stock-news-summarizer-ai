@@ -35,6 +35,8 @@ To fetch and summarize stock news, run:
 
 ```sh
 python main.py
+#or
+python -m src.main
 ```
 
 ### Configuration
